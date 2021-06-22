@@ -37,3 +37,7 @@ msbuild.wrn
 
 # Node Modules
 node_modules/
+
+hugo
+hugo_0.71.0_macOS-64bit.tar.gz
+public/*
